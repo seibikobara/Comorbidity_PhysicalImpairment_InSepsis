@@ -11,4 +11,4 @@ This repository contains codes for analysis and key figures for the manuscript "
 ### Estimation of propensity score (PS) of attrition factors including death within 72 hours from ICU admission and death in a hospital after 72 hours from ICU admission
 
 * psEstimation.py was used for PS estimation
-* lovePlot_violin_ANOVA.R was used to generate love plots and violin plots using PS estimation results with machine learning models. In addition, ANOVA was performed to compare AUROC across models.
+* lovePlot_violin_ANOVA.R was used to generate love plots and violin plots from the results of PS estimation and model performance using AUROC. ANOVA was performed to compare AUROC values across models.
